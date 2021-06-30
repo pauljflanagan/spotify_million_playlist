@@ -3,4 +3,4 @@ takes in a random amount and selection of songs and formulates a 500-song playli
 
 [The code for this project can be found here](https://deepnote.com/@paul-flanagan/Final-Project-LhaoEv9-SWiZNYYn6RIfJQ, "Deepnote Project").
 
-[A verbalized explanation for this project's creation can be found here.] (https://p-flanagan.medium.com/technical-taste-in-music-7ed93282e0c0, "Explanation Article")
+[A verbalized explanation for this project's creation can be found here](https://p-flanagan.medium.com/technical-taste-in-music-7ed93282e0c0, "Explanation Article")
